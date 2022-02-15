@@ -1,6 +1,6 @@
-# intership
+# Student Database App
 
-A new Flutter project.
+A Student Database App where each and every student can access his Academic details in finger tips.
 
 ## Getting Started
 
