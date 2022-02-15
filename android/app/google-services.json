@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287181841503",
+    "project_id": "logauth-faa84",
+    "storage_bucket": "logauth-faa84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287181841503:android:042a0c7b78a25b598a27ea",
+        "android_client_info": {
+          "package_name": "com.example.intership"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287181841503-qq9oe627rkfkht09hlajos77kj8ucjo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdrWvJrQBGCSEIv9gg-WmEZng34Zj68gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287181841503-qq9oe627rkfkht09hlajos77kj8ucjo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
